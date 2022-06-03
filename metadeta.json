@@ -14,8 +14,8 @@
         },
         {
             "address": "C3VLNhgA9HRx8jzEvqZaHvceefKneRDBsqiTed6WQWgP",
-            "verified": true,
-            "share": 50
+            "verified": false,
+            "share": 100
         },   
     ]}
 }
